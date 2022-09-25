@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Link Opener</string>
+    <string name="link_enterer">Вводитель ссылок</string>
+    <string name="enter_web_link">Введите ссылку</string>
+    <string name="close">Закрыть</string>
+    <string name="open">Открыть</string>
+    <string name="open_link">Открыть эту ссылку?\n</string>
+    <string name="invalid_url">Неверный URL</string>
+    <string name="cancel">Отменить</string>
+    <string name="link_handling_error">Что-то пошло не так во время обработки ссылки, попробуйте позже</string>
+    <string name="history">История</string>
+    <string name="link">Ссылка</string>
+    <string name="empty_history">Ваша история пуста</string>
+    <string name="remove">Удалить</string>
+    <string name="clear_history">Очистить историю</string>
+</resources>

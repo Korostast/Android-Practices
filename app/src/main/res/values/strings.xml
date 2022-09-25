@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Link Opener</string>
+    <string name="link_enterer">Link Enterer</string>
+    <string name="enter_web_link">Enter web link</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="open_link">Open this link?\n</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="cancel">Cancel</string>
+    <string name="link_handling_error">Something goes wrong during the link handling, try later</string>
+    <string name="history">History</string>
+    <string name="link">Link</string>
+    <string name="empty_history">Your history is empty</string>
+    <string name="remove">Remove</string>
+    <string name="clear_history">Clear history</string>
+</resources>
