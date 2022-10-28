@@ -23,6 +23,7 @@
         <activity
             android:name=".LinkEntererActivity"
             android:windowSoftInputMode="adjustResize"
+            android:configChanges="screenSize|orientation|keyboardHidden"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
