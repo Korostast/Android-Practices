@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VkAlbums</string>
+    <string name="user_id">ID пользователя</string>
+    <string name="get_albums">Посмотреть альбомы</string>
+    <string name="too_many_requests_error">Слишком много запросов. Пожалуйста, повторите попытку позже</string>
+    <string name="server_error">Внутренняя ошибка сервера. Пожалуйста, повторите попытку позже</string>
+    <string name="captcha_error">Сервер запрашивает капчу. Не знаю, что с этим делать</string>
+    <string name="permission_denied_error">Доступ запрещен. Вы не можете получить альбомы этого пользователя</string>
+    <string name="user_blocked_error">Пользователь был удален или забанен</string>
+    <string name="incorrect_param_error">Неправильный идентификатор пользователя. Проверьте ввод</string>
+    <string name="album_permission_denied_error">Вам не разрешено просматривать альбомы этого пользователя</string>
+    <string name="token_invalid_error">Неверный токен VK</string>
+    <string name="unknown_error">Неизвестная ошибка. Пожалуйста, попробуйте позже</string>
+    <string name="no_albums">Нет альбомов</string>
+    <string name="no_photos">Нет фотографий</string>
+    <string name="internet_con">Неизвестная ошибка. Возможно, потеряно интернет-соединение</string>
+    <string name="token_expired_error">Срок действия токена истек. Пожалуйста, обновите токен</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">VkAlbums</string>
+    <string name="user_id">User id</string>
+    <string name="get_albums">Get Albums</string>
+    <string name="too_many_requests_error">Too many requests. Please, try again later</string>
+    <string name="server_error">Server internal error. Please, try again later</string>
+    <string name="captcha_error">Server request the captcha. Idk what to do with that</string>
+    <string name="permission_denied_error">Access denied. You can\'t pull albums of this user</string>
+    <string name="user_blocked_error">User was deleted or banned</string>
+    <string name="incorrect_param_error">Incorrect user id. Check the input</string>
+    <string name="album_permission_denied_error">You are not allowed to pull albums of this user</string>
+    <string name="token_invalid_error">Invalid VK token</string>
+    <string name="unknown_error">Unknown error. Please, try later</string>
+    <string name="no_albums">No albums</string>
+    <string name="no_photos">No photos</string>
+    <string name="internet_con">Unknown error. Maybe internet connection lost</string>
+    <string name="token_expired_error">Token is expired. Please update the token</string>
+</resources>
